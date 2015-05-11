@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:14:04
 
 # Ensure UTF-8 locale
 COPY locale /etc/default/locale
